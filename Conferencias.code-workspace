@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Conferencias"
+		},
+		{
+			"path": "../Jap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Conferencias"
+	}
+}
